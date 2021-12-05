@@ -1,0 +1,19 @@
+{
+    "name": "Tanjiro",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3kdLqQMRMzwUamLe5dMU7yg9KHfxNKVxuy1GFQEg4aWH",
+          "share": 100
+        }
+      ]
+    }
+  }

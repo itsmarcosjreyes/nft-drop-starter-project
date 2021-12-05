@@ -1,0 +1,19 @@
+{
+    "name": "Rengyoku",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "3kdLqQMRMzwUamLe5dMU7yg9KHfxNKVxuy1GFQEg4aWH",
+          "share": 100
+        }
+      ]
+    }
+  }
